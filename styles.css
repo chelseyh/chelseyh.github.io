@@ -69,19 +69,18 @@ footer {
   font-size: 1.5em;
   padding: 4px;
 }
-/*
-.containerB {
+
+/* .containerB {
   margin: 40px;
   min-height: 100%;
-  height: 100%;
+  height: 100%; 
 
-}
-*/
+}*/
 
-p {
-  text-align: justify;
-  color: white;
-}
+
+
+  
+
 /*
 .headshot {
 grid-area:containerB;
